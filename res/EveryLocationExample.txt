@@ -1,0 +1,30 @@
+The output :
+
+The game is starting!
+This is a game with Non Wrapping.
+Player's Start Position- Row: 6 Column: 5
+Player's End Position- Row: 6 Column: 1
+Player's Current Position- Row: 6 Column: 5
+--------------------------------------------------------------
+The game is starting!
+Current Location: Row: 0 Column: 5 Treasures: {}
+Current Location: Row: 6 Column: 6 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 5 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 4 Treasures: {RUBIES=1}
+Current Location: Row: 6 Column: 4 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 4 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 3 Treasures: {RUBIES=1}
+Current Location: Row: 6 Column: 3 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 3 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 2 Treasures: {RUBIES=1}
+Current Location: Row: 6 Column: 2 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 2 Treasures: {RUBIES=1}
+Current Location: Row: 0 Column: 1 Treasures: {RUBIES=1}
+Current Location: Row: 6 Column: 1 Treasures: {SAPPHIRES=1, RUBIES=1}
+Current Location: Row: 0 Column: 1 Treasures: {SAPPHIRES=1, RUBIES=1}
+Current Location: Row: 6 Column: 0 Treasures: {SAPPHIRES=1, RUBIES=1}
+-------------------------------------------------------------
+
+Locations Visited by the Player 12
+The total number of caves are 12
+All the locations have been traversed!

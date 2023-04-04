@@ -1,0 +1,31 @@
+The output :
+
+The game is starting!
+This is a game with Non Wrapping.
+Player's Start Position- Row: 2 Column: 5
+Player's End Position- Row: 6 Column: 3
+Player's Current Position- Row: 2 Column: 5
+--------------------------------------------------------------
+The game is starting!
+
+The player can move [SOUTH, NORTH, WEST]
+Current Location: Row: 2 Column: 4 Treasures: {DIAMONDS=1}
+
+The player can move [SOUTH, EAST, NORTH]
+Current Location: Row: 4 Column: 4 Treasures: {DIAMONDS=1}
+
+The player can move [SOUTH, EAST, NORTH, WEST]
+Current Location: Row: 5 Column: 4 Treasures: {DIAMONDS=1}
+
+The player can move [SOUTH, EAST, NORTH, WEST]
+Current Location: Row: 6 Column: 4 Treasures: {DIAMONDS=1}
+
+The player can move [EAST, NORTH, WEST]
+Current Location: Row: 6 Column: 3 Treasures: {RUBIES=1, DIAMONDS=1}
+
+The player can move [EAST, NORTH, WEST]
+The game is Over!
+--------------------------------------------------------------
+
+
+
